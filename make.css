@@ -20,5 +20,11 @@ html,body{
     background-color: dimgrey;
     padding: auto;
     object-fit: contain;
+    display: flex;
 
+}
+
+.imgs{
+    /*height: 25%;
+    width: 25%;*/
 }

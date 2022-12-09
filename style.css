@@ -33,7 +33,7 @@ html, body{
     transform: translateY(-7px);
 }
 .header:active{
-    transform: translateY(=1px) ;
+    transform: translateY(-1px) ;
 }
 
 .paragraph{
